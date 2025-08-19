@@ -1,10 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Fede</h1>
 <h3 align="center">Software Engineer | Python, Django & React | Estudiante en UADE</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollando+soluciones+reales;Apasionado+por+backend+y+full-stack;En+constante+aprendizaje;Optimización+y+automatización+de+sistemas" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 📌 Sobre mí
