@@ -1,6 +1,6 @@
 <h1>Hi, I'm Federico Egea 👋</h1>
 
-**Full Stack Software Developer** · Python / Django · React · PostgreSQL · Docker
+**Full Stack Software Developer** · Python / Django · React · PostgreSQL · Docker<br>
 Buenos Aires, Argentina · Open to backend and full stack roles (remote or on-site)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fegeadev.com-ff4d00?style=flat-square)](https://www.fegeadev.com/en.html)
@@ -29,9 +29,9 @@ More screenshots and details on my [portfolio](https://www.fegeadev.com/en.html)
 
 ### Tech stack
 
-**Backend:** Python · Django · Django REST Framework · Java · Spring Boot · PHP · Laravel · Node.js
-**Frontend:** React · JavaScript · Inertia · HTML · CSS
-**Data:** PostgreSQL · MySQL · SQL Server · Redis
+**Backend:** Python · Django · Django REST Framework · Java · Spring Boot · PHP · Laravel · Node.js<br>
+**Frontend:** React · JavaScript · Inertia · HTML · CSS<br>
+**Data:** PostgreSQL · MySQL · SQL Server · Redis<br>
 **Infra:** Docker · Nginx · Linux (Red Hat) · AWS · Git
 
 ---
