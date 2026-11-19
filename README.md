@@ -1,4 +1,4 @@
-<h1>Hi, I'm Federico Egea 👋</h1>
+<h1>Hi, I'm Federico Egea </h1>
 
 **Full Stack Software Developer** · Python / Django · React · PostgreSQL · Docker<br>
 Buenos Aires, Argentina · Open to backend and full stack roles (remote or on-site)
